@@ -1,8 +1,8 @@
 # VUE 3 + PINIA + VueQuery Template
 
-# Proyecto Hotels-Pinia-App
+# Proyecto Vue3+Pinia Skeleton
 
-Proyecto de búsqueda de hoteles en una parte pública y reserva de hoteles una vez registrado y logado
+Esqueleto para futuros proyectos con vu3 + Pinia
 
 
 ##Primeros pasos
@@ -112,8 +112,8 @@ Establecer tu identidad:
 Clonar proyecto:
 
  ```bash
- $ git clone git@github.com:CarlosGonzalez1982/vue3-hotels-app.git
- $ cd vue3-hotels-app/
+ $ git clone git@github.com:CarlosGonzalez1982/vue3-skeleton.git
+ $ cd vue3-skeleton/
  ```
 
 Inicialización del repositorio:
@@ -123,7 +123,7 @@ Inicialización del repositorio:
  $ git add .
  $ git commit -m "feat: first commit"
  $ git branch -M master
- $ git remote add origin git@github.com:CarlosGonzalez1982/vue3-hotels-app.git
+ $ git remote add origin git@github.com:CarlosGonzalez1982/vue3-skeleton.git
  $ git push -u origin master
  ```
 
